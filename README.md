@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/1VHT1fee6ydSasXVOY/giphy.gif" align="center" style="width: 85%" />
 </div>
-<h1 align="center"></a>Hey there, I'm Joshua Mullins!</h1>
+<h1 align="center"></a>Hello there, I'm Joshua Mullins!</h1>
 <div align="center">Full stack software developer and former Air Force Intelligence Analyst with diverse experience that fostered strong analytical, public speaking and interpersonal skills. Leadership roles across three continents have developed a passion for developing innovative, secure and accessible software to connect and build relationships with people across the globe.</div>
 <br>
 <details>
