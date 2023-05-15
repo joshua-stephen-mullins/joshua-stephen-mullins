@@ -9,7 +9,7 @@
   <br/>
 - Living in Dallas, TX
   <br>
-- I know Java, HTML, CSS, Spring, JQuery and Boostrap. Additionally, I am currently learning React.
+- I know Java, HTML, CSS, Spring, JQuery and Boostrap.
   <br>
 - Ask me about travel, video games, or D&D
 <br>
