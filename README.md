@@ -7,7 +7,7 @@
 <details>
   <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
-- Living in Dallas, TX
+- Living in Fort Worth, TX
   <br>
 - I know Java, HTML, CSS, Spring, JQuery and Boostrap.
   <br>
@@ -20,10 +20,6 @@
   <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </a> </a> </p>
   <div align="center"><br>
 </div>
-</details>
-<details>
-<summary><b>:chart_with_upwards_trend: GitHub Stats</b></summary><br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=joshua-stephen-mullins&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 </details>
 <div align="center">
 <a href="https://linkedin.com/in/joshuamullins" target="_blank">
